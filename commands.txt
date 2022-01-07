@@ -1,0 +1,140 @@
+ 1502  pwd
+ 1503  cd
+ 1504  ls
+ 1505  cd awsm
+ 1506  cd
+ 1507  cd pavan_playbook
+ 1508  ls
+ 1509  cd start_tomcat
+ 1510  cd start-tomcat
+ 1511  cd ..
+ 1512  cd /
+ 1513  pwd
+ 1514  ls
+ 1515  cd usr
+ 1516  ls
+ 1517  cd ..
+ 1518  cd sys
+ 1519  ls
+ 1520  cd ..
+ 1521  cd usr/local
+ 1522  ls
+ 1523  cd ..
+ 1524  cd usr/games
+ 1525  cd
+ 1526  pwd
+ 1527  cd temp
+ 1528  mkdir -p one/two
+ 1529  ls
+ 1530  cd one
+ 1531  ls
+ 1532  cd ../..
+ 1533  pwd
+ 1534  cat multicontent.txt
+ 1535  cd temp
+ 1536  ech "Hello! Welcome to the world" > cat.txt
+ 1537  echo "Hello! Welcome to the world" > cat.txt
+ 1538  cat cat.txt
+ 1539  cat my*
+ 1540  ls
+ 1541  cat combo.txt ust.txt cat.txt
+ 1542  echo "Guide me to my Destiny" >> cat.txt
+ 1543  cat cat.txt
+ 1544  less cat.txt
+ 1545  ,pwd
+ 1546  pws
+ 1547  pwd
+ 1548  mv cat.txt /home/pavan123/temp
+ 1549  mv cat.txt /home/pavan123
+ 1550  cd ..
+ 1551  ls
+ 1552  cp cat.txt temp
+ 1553  cd temp
+ 1554  mv cat.txt one.txt
+ 1555  cd
+ 1556  whoami
+ 1557  who
+ 1558  w
+ 1559  id
+ 1560  passwd
+ 1561  cd /
+ 1562  ls
+ 1563  cat etc/passwd
+ 1564  cd
+ 1565  sudo adduser hype
+ 1566  pwd
+ 1567  cat /etc/passwd
+ 1568  cat /etc/group
+ 1569  group add
+ 1570  groupmod
+ 1571  usermod
+ 1572  sudo groupadd training
+ 1573  ls
+ 1574  ls -il
+ 1575  file cat.txt
+ 1576  ls -a
+ 1577  ls -l
+ 1578  chmod +rwx cat.txt
+ 1579  ls -lh cat.txt
+ 1580  ls -alh|grep temp
+ 1581  touch emptyfile
+ 1582  ls
+ 1583  nano cat.txt
+ 1584  cd temp
+ 1585  rm -- one.txt
+ 1586  cd
+ 1587  ls
+ 1588  find . -name *txt
+ 1589  find . - name **
+ 1590  find . -type d -name "t*"
+ 1591  find . -name hosts -delete
+ 1592  ls
+ 1593  free
+ 1594  uptime
+ 1595  pmap
+ 1596  top
+ 1597  last
+ 1598  ps
+ 1599  info
+ 1600  env
+ 1601  df
+ 1602  Htop
+ 1603  htop
+ 1604  ansible all -m ping --ask-pass
+ 1605  ansible all -m ping --ask-all
+ 1606  bash --version
+ 1607  echo $SHELL
+ 1608  echo hello world
+ 1609  nano
+ 1610  chmod +x city.sh
+ 1611  ./city.sh
+ 1612  nano city.sh
+ 1613  ./city.sh
+ 1614  nano city.sh
+ 1615  ./city.sh
+ 1616  nano city.sh
+ 1617  ./city.sh
+ 1618  ./reading.sh
+ 1619  chmod 774 readind.sh
+ 1620  chmod 774 reading.sh
+ 1621* ls -lh reading.sh
+ 1622  chmod 774 reading.sh 78 12 45 465 12
+ 1623  ./helloscript 78 45 12 35 45 4 4
+ 1624  ./helloscript.sh 78 45 12 35 45 4 4
+ 1625  ls
+ 1626  ./hsif.sh
+ 1627  ./ifelse.sh
+ 1628  cat loop1.sh
+ 1629  ./catloop1.sh
+ 1630  ./loop1.sh
+ 1631  ./looparray.sh
+ 1632  cat hello_func.sh
+ 1633  ./hello_func.sh
+ 1634  ansible --version
+ 1635  ansible -h
+ 1636  ls
+ 1637  tree pavanrole
+ 1638  cd pavanrole
+ 1639  ls
+ 1640  cd
+ 1641  history
